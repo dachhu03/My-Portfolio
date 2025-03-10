@@ -1,2 +1,2 @@
 # portfolio
- these is  my Portfolio website which showcase all my dtailese in one frame 
+ These is  my Portfolio Website which showcase all my detailes in one frame these Biuld usind HTML , CSS , Js.
